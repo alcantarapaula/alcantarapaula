@@ -7,7 +7,7 @@ My latest project is the app How Long to Watch…, created after I got tired of 
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,mysql,bootstrap,figma)](https://skillicons.dev)
 
 
 ##
