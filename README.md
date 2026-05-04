@@ -9,7 +9,8 @@ FullStack Developer, with a background in **design**. I have 2 years of experien
 ### 🚀 Featured Project
 
 **[How Long to Watch](https://github.com/alcantarapaula/how-long-to-watch)**
-A JavaScript + Bootstrap + Rest API application created after I got tired of manually calculating time and time again by when I would finish a 2000s TV show with 6+ seasons my friends and I decided to watch at that moment. Now things are much easier. You can try it out yourself [here](https://github.com/alcantarapaula/how-long-to-watch).
+
+A JavaScript + Bootstrap + Rest API application created after I got tired of manually calculating time and time again by when I would finish a 2000s TV show with 6+ seasons my friends and I decided to watch at that moment. Now things are much easier. You can try it out yourself [here](https://how-long-to-watch.netlify.app/).
 
 ---
 
